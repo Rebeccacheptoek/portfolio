@@ -89,7 +89,7 @@ export default function Portfolio() {
                             I specialize in PHP/Laravel for backend APIs, Python for data automation, and JavaScript for responsive frontends. My approach emphasizes Test-Driven Development, CI/CD automation, and building systems that scale. I've reduced API response times through Redis caching, improved team efficiency by 25% through Microsoft Graph integrations, and cut production defects by 15% through comprehensive testing.
                         </p>
                         <p className="text-xl text-gray-700 leading-relaxed">
-                            Bachelor's degree in Computer Science from Kabarak University. Currently exploring opportunities in Germany and the Netherlands for advanced studies in Information Systems and Technology. <em>Available for software engineering roles and technical consulting.</em>
+                            Bachelor's degree in Computer Science from Kabarak University.<em>Available for software engineering roles and technical consulting.</em>
                         </p>
                     </div>
 
