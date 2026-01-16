@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rebecca-cheptoek-portfolio.github.io",
+  "homepage": "https://rebecca-cheptoek-portfolio.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
